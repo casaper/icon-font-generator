@@ -1,6 +1,6 @@
 {
   "name": "icon-font-generator-casaper",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "description": "Easy-to-use, pre-configured cli tool to generate webfont icon kits from a bunch of .svg files",
   "main": "index.js",
   "repository": {
@@ -17,7 +17,7 @@
     "colors": "^1.4.0",
     "glob": "^7.1.6",
     "minimist": "^1.2.5",
-    "webfonts-generator-casaper": "^0.5.0"
+    "webfonts-generator-casaper": "^0.5.2"
   },
   "devDependencies": {
     "eslint": "^7.6.0",
